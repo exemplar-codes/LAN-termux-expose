@@ -1,2 +1,2 @@
 # LAN-termux-expose
-To run commands from Termux
+To run commands on my PC from Termux
